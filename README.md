@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=Sulthanakthar&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  
   <img src="https://img.shields.io/github/followers/Sulthanakthar?label=Followers&style=flat-square&color=8A2BE2" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Sulthanakthar?label=Stars&style=flat-square&color=4B0082" alt="Stars"/>
 </p>
