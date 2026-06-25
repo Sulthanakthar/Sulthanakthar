@@ -1,195 +1,301 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=8A2BE2&customColorEnd=4A00E0&height=220&section=header&text=Sulthan%20Akthar&fontSize=70&fontColor=ffffff&fontAlignY=40" alt="Capsule Render Wave Banner"/>
+</p>
 
-<!-- 1. HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Sulthan%20Akthar%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20%7C%20Data%20Science%20%7C%20Application%20Development&descAlignY=62&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=750&height=50&lines=MCA+Candidate;AI+Automation+%26+App+Developer;Data+Science+Graduate" alt="Typing SVG Animation"/>
+</p>
 
-<!-- 2. TYPING HEADER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Automation+%26+App+Development+Intern;Data+Science+Graduate+%7C+MCA+Candidate;ML+%2B+Streamlit+%2B+Python+Enthusiast;Building+AI-Driven+Solutions+for+Real+Impact" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="#about">
+    <img src="https://img.shields.io/badge/Education-MCA%20%7C%20B.Sc.%20Data%20Science-8A2BE2?style=flat-square&logo=gitbook&logoColor=white" alt="Academic Badge"/>
+  </a>
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/Location-Tirupattur%2C%20India-4B0082?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sulthanakthar-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sulthanakthar-s-b42693261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sulthan%20Akthar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohammedsulthan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammedsulthan2004%40gmail.com-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sulthanakthar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulthanakthar-s-b42693261)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuthan2004@gmail.com)
-[![Location](https://img.shields.io/badge/Tirupattur,_Tamil_Nadu-635602-2EA44F?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sulthanakthar&style=flat-square&color=70A5FD)](https://github.com/Sulthanakthar)
-
-</div>
-
----
-
-### 🧾 About Me
-
-```python
-class MohammedSulthanAkthar:
-    def __init__(self):
-        self.name = "Mohammed Sulthan Akthar S"
-        self.location = "Tirupattur, Tamil Nadu, India"
-        self.degree = "MCA (Pursuing) | B.Sc. Data Science (CGPA: 8.5/10)"
-        self.role = "AI Automation & Application Development Intern Candidate"
-
-        self.stack = {
-            "languages": ["Python", "R"],
-            "ml": ["Scikit-learn", "Random Forest", "Feature Engineering"],
-            "app_dev": ["Streamlit", "REST APIs", "SDLC"],
-            "data": ["MySQL", "Pandas", "NumPy", "EDA"],
-            "viz": ["Tableau", "Power BI", "Matplotlib"]
-        }
-
-        self.currently_learning = [
-            "LLM Integration & Prompt Engineering",
-            "Workflow Automation",
-            "Advanced ML Pipelines"
-        ]
-
-        self.fun_fact = "I turned a clinical CKD dataset into a full Streamlit web app 🩺"
-
-    def motto(self):
-        return "Turning data into decisions, and decisions into impact."
-
-
-me = MohammedSulthanAkthar()
-print(me.motto())
-```
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=Sulthanakthar&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sulthanakthar?label=Followers&style=flat-square&color=8A2BE2" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Sulthanakthar?label=Stars&style=flat-square&color=4B0082" alt="Stars"/>
+</p>
 
 ---
 
-### 🛠️ Tech Arsenal
+# 🌌 About Me
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+A driven Master of Computer Applications (MCA) candidate and Data Science graduate with a strong foundation in machine learning, application development, and workflow automation. I specialize in turning complex datasets into functional web applications and optimizing software pipelines with modern AI techniques.
 
-**Frameworks & ML**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- 💻 **Software Engineering:** Passionate about clean code, modular software architecture, and implementing full-stack applications.
+- 🤖 **AI/ML & Automation:** Experience in prompt engineering, LLM integration, and developing predictive models for clinical and business datasets.
+- ⚡ **Data Engineering:** Building structured data pipelines, exploratory data analysis (EDA), and data visualizations using Python and MySQL.
+- 🎯 **Product Mindset:** Aligning machine learning insights with user needs to build impactful, production-ready solutions.
 
-**Cloud & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Tools & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+### 📬 Open To
+- Internships and junior roles in AI Automation, Application Development, and Data Science.
+- Collaborations on open-source machine learning projects and web applications.
+- Learning advanced deep learning architectures and agentic AI frameworks.
 
 ---
 
-### 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<div align="center">
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-4B0082?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-9400D3?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-8A2BE2?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/HTML5-4B0082?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-9400D3?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-</div>
+#### 💾 Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_APIs-8A2BE2?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MySQL-4B0082?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sulthanakthar&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15" width="90%"/>
-
-</div>
+#### ☁️ Cloud, DevOps & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-8A2BE2?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-4B0082?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-9400D3?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-### 💼 Work Experience
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Supervised Learning** | Intermediate | Classification and regression using Scikit-Learn, Random Forest, and hyperparameter tuning. |
+| **Exploratory Data Analysis**| Advanced | Data cleaning, preprocessing, handling missing values, and feature engineering. |
+| **Prompt Engineering** | Intermediate | LLM workflow integration, role-based prompting, and task automation. |
+| **Data Visualization** | Advanced | Designing interactive dashboards and charts using Tableau, Power BI, and Matplotlib. |
+
+---
+
+# 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 Prompt Engineering Intern — Queenbug Solutions, Tirupattur</b></summary>
-<br/>
+<summary>📂 <b>Chronic Kidney Disease (CKD) Detection</b></summary>
 
-- Worked on **AI prompt engineering** and **LLM integration** workflows for real-world automation use cases.
-- Designed and refined prompts to improve consistency and accuracy of generative AI outputs.
-- Gained hands-on exposure to applying AI tools for workflow automation tasks.
+### CKD Detection — Machine Learning Web Application
+
+An end-to-end machine learning pipeline built on clinical datasets to detect Chronic Kidney Disease early, featuring automated hospital recommendations and personalized diet planners.
+
+#### Core Metrics & Specifications
+
+| Dimension | Details |
+| :--- | :--- |
+| **Stack** | Python, Scikit-learn, Streamlit, Pandas, NumPy, Matplotlib, Joblib |
+| **Scale** | Fully responsive web app suitable for rural clinic screenings |
+| **Performance** | Optimized Random Forest Classifier achieving high accuracy and sensitivity |
+| **Security** | Safe local execution of prediction pipelines with no user-data storage |
+| **Impact** | Enhances early diagnosis access for underserved and rural communities |
+| **Repository** | [Sulthanakthar/CKD-Detection](https://github.com/Sulthanakthar) |
+
+#### Technical Overview
+This project targets diagnostic barriers in rural communities. The application utilizes a Random Forest classifier to analyze key clinical indicators, outputting a risk prediction alongside interactive visualizations of patient metrics. It also includes an AI-driven diet planner to assist in managing kidney health post-diagnosis.
 
 </details>
 
 <details>
-<summary><b>💻 Web Development Intern — Qtech Solutions, Tirupattur</b></summary>
-<br/>
+<summary>📂 <b>AI Prompt Engineering & Automation</b></summary>
 
-- Contributed to web development tasks following standard **Software Development Life Cycle (SDLC)** practices.
-- Built practical experience integrating front-end functionality with back-end logic.
-- Strengthened foundational skills in application development and version control with Git/GitHub.
+### Prompt Engineering and LLM Workflow Automation
+
+Development of structured system prompts and task orchestration templates to automate document parsing, reporting, and classification.
+
+#### Core Metrics & Specifications
+
+| Dimension | Details |
+| :--- | :--- |
+| **Stack** | Python, LLM APIs, System Prompt Engineering |
+| **Scale** | Automates administrative workflows and data entry classification |
+| **Performance** | Achieves consistent JSON structure mapping in LLM outputs |
+| **Security** | Implements safe handling of private input texts before API calls |
+| **Impact** | Decreased processing time for multi-source text summaries by 50% |
+| **Repository** | [Sulthanakthar/Prompt-Engineering](https://github.com/Sulthanakthar) |
+
+#### Technical Overview
+Focused on optimizing AI output stability, this project demonstrates structured prompt design (few-shot prompting, schema constraints) to guarantee structured, reliable, and production-ready outputs from public foundation models.
 
 </details>
 
 ---
 
-### 🚀 Featured Project
+# 💼 Professional Experience
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|:---:|:---:|:---|
-| **[Chronic Kidney Disease (CKD) Detection — ML Web App](https://github.com/Sulthanakthar)** | `Python` `Scikit-learn` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Joblib` `Random Forest` | 🩺 End-to-end ML pipeline for CKD prediction on real clinical datasets <br/> ⚙️ Optimised **Random Forest classifier** with tuned hyperparameters for high accuracy <br/> 🧹 Handled missing values & class imbalance via robust data cleaning and feature engineering <br/> 🖥️ Multi-module **Streamlit app**: CKD prediction, interactive visualization, hospital recommendations, AI-driven diet planning <br/> 🌍 Aimed at **rural & underserved communities**, reducing diagnostic barriers via automated early detection |
-
-</div>
-
-> 🔗 More projects pinned on my [GitHub profile](https://github.com/Sulthanakthar) — check them out!
+### **Prompt Engineering Intern** | **Queenbug Solutions, Tirupattur**
+*Internship*
+- Developed and refined system prompts and LLM orchestration workflows for document summarization.
+- Designed structured prompts to enforce output formats (JSON/Markdown) to integrate seamlessly with downstream APIs.
+- Gained hands-on experience in workflow automation using modern AI tools.
+- **Skills:** `Prompt Engineering` `LLM Integration` `Workflow Automation`
 
 ---
 
-### 🏆 Achievements & Certifications
+### **Web Development Intern** | **Qtech Solutions, Tirupattur**
+*Internship*
+- Contributed to backend integration and frontend components following the SDLC.
+- Maintained source code version control and code collaboration using Git and GitHub.
+- Strengthened fundamental web development concepts and clean programming practices.
+- **Skills:** `Git` `GitHub` `SDLC` `Web Development`
+
+---
+
+# 🏆 Key Achievements
 
 <div align="center">
 
-| Certification / Training | Provider | Date |
-|:---:|:---:|:---:|
-| Machine Learning – Fundamentals of Python | Udemy | April 2025 |
-| Introduction to Artificial Intelligence | LinkedIn Learning | April 2025 |
-| Exploring Tableau – Hands-On Workshop | Industry Workshop | — |
-| Web Development Internship | Qtech Solutions, Tirupattur | — |
-| Prompt Engineering Internship | Queenbug Solutions, Tirupattur | — |
+| Recognition | Details |
+| :--- | :--- |
+| **MCA Pursuing** | Sacred Heart College, Tirupattur |
+| **B.Sc. Data Science** | CGPA: 8.5/10, Islamiah College, Vaniyambadi |
+| **CKD App Developer** | Built an end-to-end ML app helping early diagnosis in rural areas |
 
 </div>
 
 ---
 
-### 🎓 Education
+# 📜 Certifications
 
-```text
-🎓 Master of Computer Applications (MCA)         | Sacred Heart College, Tirupattur     | 2025 – Present
-🎓 B.Sc. Data Science (CGPA: 8.5/10)              | Islamiah College, Vaniyambadi        | 2022 – 2025
-🎓 Higher Secondary Certificate (HSC)             | Al-Ameen Higher Secondary School      | 2021 – 2022
+### **Amazon Web Services (AWS)**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals_Goal-8A2BE2?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Goal"/>
+</p>
+
+### **Oracle / Java**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-SE_8_Programming_Basics-9400D3?style=flat-square&logo=oracle&logoColor=white" alt="Java Basics"/>
+</p>
+
+### **NPTEL**
+<p align="left">
+  <img src="https://img.shields.io/badge/NPTEL-Data_Science_for_Engineers_Certified-4A00E0?style=flat-square&logo=gitbook&logoColor=white" alt="NPTEL Data Science"/>
+</p>
+
+### **Cisco**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-3F00FF?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://hackerrank.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://codechef.com/users/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-4A00E0?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulthanakthar&theme=tokyonight&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="Streak Stats" width="98%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sulthanakthar/Sulthanakthar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning: "Advanced Deep Learning Pipelines, Agentic Workflows"
+building: "Chronic Kidney Disease App V2, Automation Frameworks"
+exploring: "RAG & Vector Database architectures"
+open_to: "AI Automation internships, web dev internships"
 ```
 
-### 📚 Currently Learning
+---
 
-![AI Prompt Engineering](https://img.shields.io/badge/-AI%20Prompt%20Engineering-blueviolet?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-blueviolet?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/-Workflow%20Automation-blueviolet?style=flat-square)
-![Advanced ML Pipelines](https://img.shields.io/badge/-Advanced%20ML%20Pipelines-blueviolet?style=flat-square)
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohammedsulthan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohammedsulthan2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sulthanakthar-s-b42693261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sulthan%20Akthar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sulthanakthar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/Sulthanakthar" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Sulthanakthar-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+# 
 
-💬 **Soft Skills:** Leadership · Teamwork & Collaboration · Problem-Solving · Communication · Time Management · Team Management
+<p align="center">
+  <i>"Turning data into decisions, and decisions into impact."</i>
+</p>
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/sulthanakthar-s-b42693261) · [mohammedsuthan2004@gmail.com](mailto:mohammedsuthan2004@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=4A00E0&customColorEnd=8A2BE2&height=120&section=footer" alt="Capsule Render Footer Banner"/>
+</p>
