@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sulthanakthar" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sulthanakthar-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-builder--mohamedsultan48.replit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sulthanakthar-s-b42693261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sulthan%20Akthar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,10 +31,26 @@
 </p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/github/followers/Sulthanakthar?label=Followers&style=flat-square&color=8A2BE2" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Sulthanakthar?label=Stars&style=flat-square&color=4B0082" alt="Stars"/>
 </p>
+
+---
+
+# 🌐 Live Portfolio
+
+<p align="center">
+  <a href="https://portfolio-builder--mohamedsultan48.replit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20portfolio--builder--mohamedsultan48.replit.app-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio Link"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>👆 My full professional portfolio — featuring live projects, tech stack, certifications & a working contact form.</strong>
+</p>
+
+> **Includes:** CKD Detection System · Prompt Engineering Pipeline · Grainheart Agro Platform · SmartSpend Finance Tracker
+> — with detailed case studies, tech breakdowns, and direct contact.
 
 ---
 
@@ -252,14 +268,6 @@ Focused on optimizing AI output stability, this project demonstrates structured 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sulthanakthar/Sulthanakthar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 ```yaml
@@ -267,6 +275,7 @@ learning: "Advanced Deep Learning Pipelines, Agentic Workflows"
 building: "Chronic Kidney Disease App V2, Automation Frameworks"
 exploring: "RAG & Vector Database architectures"
 open_to: "AI Automation internships, web dev internships"
+portfolio: "https://portfolio-builder--mohamedsultan48.replit.app/"
 ```
 
 ---
@@ -283,14 +292,12 @@ open_to: "AI Automation internships, web dev internships"
   <a href="https://github.com/Sulthanakthar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Sulthanakthar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Sulthanakthar" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Sulthanakthar-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-builder--mohamedsultan48.replit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
-
-# 
 
 <p align="center">
   <i>"Turning data into decisions, and decisions into impact."</i>
