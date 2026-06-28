@@ -1,6 +1,6 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER — solid black background, theme-agnostic -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F1A,50:0D1B2A,100:00B4D8&height=280&section=header&text=Mohammed%20Sulthan%20Akthar%20S&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20Automation%20%E2%80%A2%20App%20Development%20%E2%80%A2%20Data%20Science&descSize=17&descAlignY=65&descColor=00B4D8&animation=fadeIn&stroke=00B4D8&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Mohammed%20Sulthan%20Akthar%20S&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20Automation%20%E2%80%A2%20App%20Development%20%E2%80%A2%20Data%20Science&descSize=17&descAlignY=65&descColor=00B4D8&animation=fadeIn&stroke=00B4D8&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -10,13 +10,21 @@
 
 <br/>
 
-<!-- PROFILE PHOTO + STATS ROW -->
+<!-- PROFILE PHOTO + STATS ROW — dual theme (auto light/dark) -->
 <div align="center">
   <img src="https://github.com/Sulthanakthar.png" width="130" style="border-radius:50%;border:3px solid #00B4D8;" alt="Sulthan Akthar"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=transparent&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started" height="130" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=dark&bg_color=000000&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=default&bg_color=ffffff&title_color=0B0F1A&icon_color=00B4D8&text_color=0B0F1A&border_color=00B4D8&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sulthanakthar&show_icons=true&theme=dark&bg_color=000000&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started" height="130" alt="GitHub Stats"/>
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=transparent&title_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12" height="130" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=dark&bg_color=000000&title_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=default&bg_color=ffffff&title_color=0B0F1A&text_color=0B0F1A&border_color=00B4D8&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulthanakthar&layout=compact&theme=dark&bg_color=000000&title_color=00B4D8&text_color=ffffff&border_color=00B4D8&border_radius=12" height="130" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
@@ -24,21 +32,21 @@
 <!-- TOP BADGES ROW -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-Visit%20Now-00B4D8?style=for-the-badge&logoColor=white)](https://portfolio-builder--mohamedsultan48.replit.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-Visit%20Now-00B4D8?style=for-the-badge&logoColor=white&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulthanakthar-s-b42693261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sulthanakthar-s-b42693261)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsulthan2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mohammedsulthan2004@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919944550063)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/919944550063)
 
 &nbsp;
 
-![Status](https://img.shields.io/badge/Status-✅%20Available%20for%20Freelance-00C851?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-✅%20Available%20for%20Freelance-00C851?style=flat-square&labelColor=000000)
 &nbsp;
-![Location](https://img.shields.io/badge/📍-Tirupattur%2C%20India%20(Remote%20Worldwide)-0B0F1A?style=flat-square&color=00B4D8)
+![Location](https://img.shields.io/badge/📍-Tirupattur%2C%20India%20(Remote%20Worldwide)-000000?style=flat-square&color=00B4D8&labelColor=000000)
 &nbsp;
-![Response](https://img.shields.io/badge/⚡%20Response-Within%2024%20Hours-FF6B35?style=flat-square)
+![Response](https://img.shields.io/badge/⚡%20Response-Within%2024%20Hours-FF6B35?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -103,45 +111,47 @@
 
 **Core Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00B4D8)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3)
 
 **AI / ML / Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Replit](https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=F26207)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 </div>
+
+> 🎨 All badges use a black label background with a coloured logo accent — this keeps them legible and consistent whether your profile is being viewed in GitHub's light or dark theme.
 
 ---
 
@@ -150,7 +160,7 @@
 <div align="center">
 
 ### 🧬 CKD Detection — ML Clinical Web App
-[![CKD Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge)](https://portfolio-builder--mohamedsultan48.replit.app/)
+[![CKD Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/)
 
 </div>
 
@@ -168,7 +178,7 @@ End-to-end machine learning pipeline for early **Chronic Kidney Disease detectio
 <div align="center">
 
 ### ⚙️ Prompt Engineering & LLM Automation Pipeline
-[![Prompt Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge)](https://portfolio-builder--mohamedsultan48.replit.app/)
+[![Prompt Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/)
 
 </div>
 
@@ -186,7 +196,7 @@ Production-grade **LLM orchestration framework** with system prompt design, stru
 <div align="center">
 
 ### 🌾 Grainheart Agro Platform
-[![Agro Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge)](https://portfolio-builder--mohamedsultan48.replit.app/)
+[![Agro Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/)
 
 </div>
 
@@ -197,7 +207,7 @@ Agricultural management platform with **yield forecasting**, market price analys
 <div align="center">
 
 ### 💳 SmartSpend — AI Finance Tracker
-[![Finance Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge)](https://portfolio-builder--mohamedsultan48.replit.app/)
+[![Finance Project](https://img.shields.io/badge/View%20Case%20Study-portfolio--builder--mohamedsultan48.replit.app-00B4D8?style=for-the-badge&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/)
 
 </div>
 
@@ -272,19 +282,19 @@ Personal finance tracker with **ML-driven spending pattern insights**, category 
 
 <div align="center">
 
-![Udemy ML](https://img.shields.io/badge/Udemy-Machine%20Learning%3A%20Python%20Fundamentals-EC5252?style=flat-square&logo=udemy&logoColor=white)
+![Udemy ML](https://img.shields.io/badge/Udemy-Machine%20Learning%3A%20Python%20Fundamentals-000000?style=flat-square&logo=udemy&logoColor=EC5252)
 &nbsp;
-![LinkedIn AI](https://img.shields.io/badge/LinkedIn%20Learning-Introduction%20to%20AI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn AI](https://img.shields.io/badge/LinkedIn%20Learning-Introduction%20to%20AI-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)
 &nbsp;
-![Tableau](https://img.shields.io/badge/Workshop-Exploring%20Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Workshop-Exploring%20Tableau-000000?style=flat-square&logo=tableau&logoColor=E97627)
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 &nbsp;
-![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%208%20Programming%20Basics-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%208%20Programming%20Basics-000000?style=flat-square&logo=oracle&logoColor=F80000)
 &nbsp;
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers-003366?style=flat-square&logo=gitbook&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers-000000?style=flat-square&logo=gitbook&logoColor=ffffff)
 &nbsp;
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-000000?style=flat-square&logo=cisco&logoColor=1BA0D7)
 
 </div>
 
@@ -293,19 +303,37 @@ Personal finance tracker with **ML-driven spending pattern insights**, category 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sulthanakthar&theme=tokyonight&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border=00B4D8" width="98%" alt="Streak Stats"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sulthanakthar&theme=dark&background=000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border=00B4D8&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sulthanakthar&theme=default&background=ffffff&ring=00B4D8&fire=00B4D8&currStreakLabel=0B0F1A&border=00B4D8&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Sulthanakthar&theme=dark&background=000000&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border=00B4D8" width="98%" alt="Streak Stats"/>
+</picture>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&bg_color=0D1117&color=00B4D8&line=0096C7&point=ffffff&area=true&area_color=00B4D8&hide_border=false&border_color=00B4D8&radius=8" width="100%" alt="Contribution Graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&bg_color=000000&color=00B4D8&line=00B4D8&point=ffffff&area=true&area_color=00B4D8&hide_border=false&border_color=00B4D8&radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&bg_color=ffffff&color=0B0F1A&line=0B0F1A&point=00B4D8&area=true&area_color=00B4D8&hide_border=false&border_color=00B4D8&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulthanakthar&bg_color=000000&color=00B4D8&line=00B4D8&point=ffffff&area=true&area_color=00B4D8&hide_border=false&border_color=00B4D8&radius=8" width="100%" alt="Contribution Graph"/>
+</picture>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=algolia&column=7&margin-w=12&margin-h=12&no-bg=true" width="100%" alt="Trophies"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=darkhub&column=7&margin-w=12&margin-h=12&no-bg=false&no-frame=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=flat&column=7&margin-w=12&margin-h=12&no-bg=false&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sulthanakthar&theme=darkhub&column=7&margin-w=12&margin-h=12&no-frame=true" width="100%" alt="Trophies"/>
+</picture>
+
 </div>
 
 ---
@@ -314,13 +342,13 @@ Personal finance tracker with **ML-driven spending pattern insights**, category 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sulthanakthar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Sulthanakthar)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Sulthanakthar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://auth.geeksforgeeks.org/user/Sulthanakthar)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/Sulthanakthar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/Sulthanakthar)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Sulthanakthar)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-000000?style=for-the-badge&logo=codechef&logoColor=ffffff)](https://codechef.com/users/Sulthanakthar)
 
 </div>
 
@@ -365,13 +393,13 @@ response_time : "< 24 hours guaranteed"
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧%20Email-mohammedsulthan2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsulthan2004@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-mohammedsulthan2004%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mohammedsulthan2004@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-%2B91%2099445%2050063-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919944550063)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-%2B91%2099445%2050063-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/919944550063)
 
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Sulthan%20Akthar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulthanakthar-s-b42693261)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Sulthan%20Akthar-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sulthanakthar-s-b42693261)
 
-[![Portfolio Contact Form](https://img.shields.io/badge/🌐%20Portfolio%20Contact%20Form-Use%20the%20Live%20Form-00B4D8?style=for-the-badge)](https://portfolio-builder--mohamedsultan48.replit.app/#contact)
+[![Portfolio Contact Form](https://img.shields.io/badge/🌐%20Portfolio%20Contact%20Form-Use%20the%20Live%20Form-000000?style=for-the-badge&color=000000&labelColor=000000)](https://portfolio-builder--mohamedsultan48.replit.app/#contact)
 
 <br/>
 
@@ -385,6 +413,6 @@ response_time : "< 24 hours guaranteed"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B0F1A&height=120&section=footer&text=Open%20for%20Global%20Collaboration&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Open%20for%20Global%20Collaboration&fontSize=16&fontColor=ffffff&fontAlignY=65&stroke=00B4D8&strokeWidth=1" width="100%"/>
 
 </div>
